@@ -1,0 +1,2 @@
+org.springframework.boot.env.EnvironmentPostProcessor=com.wesley.bean.remote.EnvironmentPostProcessora
+org.springframework.boot.diagnostics.FailureAnalyzer=com.wesley.bean.FailureAnalyzer.MyBeanNotOfRequiredTypeFailureAnalyzer

@@ -1,0 +1,8 @@
+${application.version}
+${AnsiColor.BLUE} 
+${AnsiColor.BRIGHT_YELLOW}
+${application.formatted-version}
+${spring-boot.version}
+${spring-boot.formatted-version}
+${application.title}
+观音菩萨保佑保佑                                                                                                                                   永无bug
