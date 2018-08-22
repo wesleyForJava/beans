@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+    xmlns:layout="http://www.ultraq.net.nz/web/thymeleaf/layout"
+    layout:decorator="base/layout">
+    <!-- layout文件路径-->
+
+<head>
+    <meta charset="utf-8" />
+    <title>首页</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+</head>
+
+<body>
+  <div layout:fragment="content" style="width:96%;margin-left:auto;margin-right:auto;">
+    <div style="font-size:18px;">
+                 测试thymeleaf layout布局 模式套用
+         js css 全部继承自layout
+         content 因页面不同而不同
+     </div>
+
+     <div style="margin:20px;">
+     </div>
+
+     <div style="font-size:16px;margin:20px 0px;">
+           <a href="/tools/editTable1" target="_blank">可编辑表格插件一测试</a>
+     </div>
+     <div style="font-size:16px;">
+           <a href="/tools/editTable2" target="_blank">可编辑表格插件二测试</a>
+     </div> 
+  </div>
+  <th:block layout:fragment = "bodyAssets">
+     <script src = "../../static/js/security/mainframe.js"
+            th:src="@{/js/security/mainframe.js}"></script>
+ </th:block>    
+</body>
+
+</html>

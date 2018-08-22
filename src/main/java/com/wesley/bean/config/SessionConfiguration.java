@@ -29,6 +29,8 @@ public class SessionConfiguration extends WebMvcConfigurerAdapter{
 		.excludePathPatterns("/endpointWisely*/**/**/**")
 		.excludePathPatterns("/topic/getResponse*/**")
 		.excludePathPatterns("/welcome**")
+		.excludePathPatterns("/typography**/**")
+		.excludePathPatterns("/ztree**")
 		.excludePathPatterns("/socket/**");
 	}
 
