@@ -1,6 +1,7 @@
 package com.wesley.bean.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -30,7 +31,7 @@ public class GoodInfoController {
     @Autowired //会报错是没有compiler会报错 没有编译是无法注入实现类的。
     private GoodInfoMapper goodInfoMapper;
     
-    @RequestMapping(value="/detail/{id}",produces="application/json;charset=utf-8")
+    @RequestMapping(value="/detail/{id}",produces=MediaType.APPLICATION_JSON_UTF8_VALUE)
     public GoodInfoDTO detail(@PathVariable("id") Long id) {
     	//查询商品的基本信息
     	GoodInfoBean goodInfoBean = goodInfoJPA.findOne(id);
