@@ -16,7 +16,7 @@ public class LoggerConfguration extends WebMvcConfigurerAdapter {
 
 	@Override
 	public void addResourceHandlers(ResourceHandlerRegistry registry) {
-		registry.addResourceHandler("/bean/static/**").addResourceLocations("classpath:/static/");
+		registry.addResourceHandler("/bean/static/**").addResourceLocations("classpath:/static/").setCachePeriod(1313213131);
 	}
 	
 	
