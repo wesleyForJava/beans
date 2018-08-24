@@ -1,4 +1,4 @@
-package com.wesley.bean.FailureAnalyzer;
+package com.wesley.bean.failureanalyzer;
 
 import org.springframework.beans.factory.BeanNotOfRequiredTypeException;
 import org.springframework.boot.diagnostics.AbstractFailureAnalyzer;
