@@ -74,9 +74,6 @@ public class main1 extends WebMvcConfigurerAdapter{
 		
 		
 		
-		
-		
-		
 /*		 Object obj=new main2();
 		System.out.println(obj.getClass().getName());
 		try {
