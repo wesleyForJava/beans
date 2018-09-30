@@ -1,20 +1,100 @@
 package com.wesley.bean.test;
 
-import java.util.HashMap;
-import java.util.Map;
-
-import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
-
-import com.google.common.base.Joiner;
-import com.google.common.base.Objects;
-import com.google.common.base.Splitter;
-import com.google.common.base.Strings;
 
 
 public class main1 extends WebMvcConfigurerAdapter{
 	public static void main(String[] args) {
+		int num =40;
+		int peopleNum=0;
+		int money =3000;
+        double totalMoney=0.00;
+         if(num==1) {
+        	peopleNum=1;
+        }else if(num>=2 && num<=10) {
+        	peopleNum=2;
+     	}else if(num>=11 && num<=30) {
+		     peopleNum=3;
+     	}else if(num>=31 && num<=50) {
+     		peopleNum=4;
+     	}else if(num>=51 && num<=100) {
+     		peopleNum=5;
+     	}else if(num>100) {
+     		peopleNum=6;
+	    }
           
+		switch (peopleNum) {
+		case 1:
+			totalMoney=num*money; //3000 1个人
+			break;
+		case 2:
+			totalMoney=money+((num-1)*500); // 2个人-10人3500  10个人7500
+			break;
+		case 3:
+			totalMoney=money+((9)*500)+(num-10)*400; //11-30人  17500+
+			break;
+		case 4:
+			totalMoney=money+(9*500)+(20*400)+((num-30)*300);//31-50人
+			break;
+		case 5:
+			totalMoney=money+(9*500)+(20*400)+(30*300)+((num-50)*200);//51至100人
+			break;
+		case 6:
+			totalMoney=(money+(9*500)+(20*400)+(30*300)+(50*200));//100人以上
+			totalMoney=totalMoney+(num-100)*100;
+			break;
+
+		default:
+			totalMoney=0;
+			break;
+		}
+		System.out.println(totalMoney);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+/*		 Object obj=new main2();
+		System.out.println(obj.getClass().getName());
+		try {
+			Class<?> forName = Class.forName(obj.getClass().getName());
+			System.out.println(forName.toString());
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}*/
+/*		  
+		List<String> list=new ArrayList<String>();
+		list.add("1");
+		list.add("2");
+		list.add("3");
+		list.add("4");
+		System.out.println(list.subList(0, 2));*/
+
+		
 		
 		
 /*		ApplicationContext ap = null;
@@ -42,8 +122,7 @@ public class main1 extends WebMvcConfigurerAdapter{
 			}
 		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
-		}*/
-	 
+		} 
 	    //判断是否为空
 	     String input = "";
 	     boolean isNullOrEmpty = Strings.isNullOrEmpty(input);
@@ -98,7 +177,7 @@ public class main1 extends WebMvcConfigurerAdapter{
                        Object b1 = new Object();
                        boolean aEqualsB = Objects.equal(a1, b1);
                        System.out.println(aEqualsB);
-/*               try {
+               try {
 				InputStream inputStream = new DefaultResourceLoader().getResource("classpath:/application.properties").getInputStream();
 				int i;
 				while((i=inputStream.read())!=-1) {
@@ -106,10 +185,8 @@ public class main1 extends WebMvcConfigurerAdapter{
 				}
 				inputStream.close();
 			} catch (IOException e) {
-				// TODO Auto-generated catch block
 				e.printStackTrace();
-			}*/
-/*		   Iterable<String> splitResults = Splitter.onPattern("[,，]{1,}")
+			}		   Iterable<String> splitResults = Splitter.onPattern("[,，]{1,}")
 	                .trimResults()
 	                .omitEmptyStrings()
 	                .split("hello,word,,世界，水平");
