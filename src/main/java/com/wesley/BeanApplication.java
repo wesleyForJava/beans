@@ -1,5 +1,7 @@
 package com.wesley;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.boot.ExitCodeGenerator;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -14,7 +16,6 @@ import com.wesley.bean.beandefinition.ImportBeanDefinitionRefisters;
 import com.wesley.bean.config.JWTConfiguration;
 import com.wesley.bean.config.LoggerConfguration;
 import com.wesley.bean.config.SessionConfiguration;
-import com.wesley.bean.context.ApplicationContextProvider;
 import com.wesley.bean.init.Animal;
 import com.wesley.bean.init.InitBeanAndDestroyBean;
 import com.wesley.bean.init.MyApplicationiniter;
@@ -26,6 +27,7 @@ import com.wesley.bean.properties.Properties;
 @Import({ImportBeanDefinitionRefisters.class})
 @EnableScheduling
 public class BeanApplication {
+	private static Logger logger =LoggerFactory.getLogger(BeanApplication.class);
 	     @Bean
 	    public ExitCodeGenerator exitCodeGenerator() {
 	        return () -> 42;
@@ -36,21 +38,18 @@ public class BeanApplication {
 		springApplication.addListeners(new MyListener());
 		springApplication.addInitializers(new MyApplicationiniter());
 		ConfigurableApplicationContext context = springApplication.run(args);
-		System.out.println(context.getBean(Properties.class).toString());
-		System.out.println(context.getBean(Animal.class));
-		System.out.println(context.getBean(InitBeanAndDestroyBean.class));
+		logger.info("{}"+context.getBean(Properties.class).toString());
+		logger.info("{}"+context.getBean(Animal.class));
+		logger.info("{}"+context.getBean(InitBeanAndDestroyBean.class));
 		String property = context.getEnvironment().getProperty("url");
-		System.out.println(context.getEnvironment().getProperty("password"));
-		System.out.println(property);
+		logger.info("{}"+context.getEnvironment().getProperty("password"));
+		logger.info("{}"+property);
 		springApplication.setAdditionalProfiles("test","dev");
-		System.out.println(context.getBean(UserBean.class));
-		UserBean bean = ApplicationContextProvider.getBean(UserBean.class);
-		bean.setName("你好");
-		//System.out.println(context.getBean(MyBeanNotOfRequiredTypeFailureAnalyzer.class));
-		System.out.println(bean.getName());
-		System.out.println(context.getBean(SessionConfiguration.class));
-		System.out.println(context.getBean(JWTConfiguration.class));
-		System.out.println(context.getBean(LoggerConfguration.class));
+		logger.info("{}"+context.getBean(UserBean.class));
+		//logger.info("{}"+context.getBean(MyBeanNotOfRequiredTypeFailureAnalyzer.class));
+		logger.info("{}"+context.getBean(SessionConfiguration.class));
+		logger.info("{}"+context.getBean(JWTConfiguration.class));
+		logger.info("{}"+context.getBean(LoggerConfguration.class));
 /*		System.exit(SpringApplication
 				.exit(SpringApplication.run(BeanApplication.class, args)));*/
 	}
