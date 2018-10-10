@@ -7,11 +7,10 @@ import com.wesley.bean.pojo.ExceptionInfoEntity;
 /**
  * 异常数据接口定义
  * ========================
- * Created with IntelliJ IDEA.
- * User：恒宇少年
+ * Created with Eclipse
+ * User：Wesley
  * Date：2018/1/7
  * Time：下午3:34
- * 码云：http://git.oschina.net/jnyqy
  * ========================
  * @author yuqiyu
  */
