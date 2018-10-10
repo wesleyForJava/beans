@@ -10,8 +10,5 @@ import com.wesley.bean.interceptor.JwtTokenInterceptor;
 @Configuration
 public class JWTConfiguration extends WebMvcConfigurerAdapter{
 
-	@Override
-	public void addInterceptors(InterceptorRegistry registry) {
-		registry.addInterceptor(new JwtTokenInterceptor()).addPathPatterns("/");
-	}
+
 }
