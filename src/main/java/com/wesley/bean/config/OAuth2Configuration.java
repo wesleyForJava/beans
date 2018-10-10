@@ -44,7 +44,7 @@ public class OAuth2Configuration {
                     .authenticationEntryPoint(customAuthenticationEntryPoint)
                     .and()
                     .logout()
-                    .logoutUrl("/oauth/logout")
+                    .logoutUrl("/oauth/logout")  
                     .logoutSuccessHandler(customLogoutSuccessHandler)
                     .and()
                     .authorizeRequests()
