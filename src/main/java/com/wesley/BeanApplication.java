@@ -22,10 +22,13 @@ import com.wesley.bean.init.MyApplicationiniter;
 import com.wesley.bean.listener.MyListener;
 import com.wesley.bean.properties.Properties;
 
+import springfox.documentation.swagger2.annotations.EnableSwagger2;
+
 @SpringBootApplication()
 @ComponentScan(basePackages= {"com.wesley.bean"})
 @Import({ImportBeanDefinitionRefisters.class})
 @EnableScheduling
+@EnableSwagger2
 public class BeanApplication {
 	private static Logger logger =LoggerFactory.getLogger(BeanApplication.class);
 	     @Bean
@@ -38,18 +41,18 @@ public class BeanApplication {
 		springApplication.addListeners(new MyListener());
 		springApplication.addInitializers(new MyApplicationiniter());
 		ConfigurableApplicationContext context = springApplication.run(args);
-		logger.info("{}"+context.getBean(Properties.class).toString());
-		logger.info("{}"+context.getBean(Animal.class));
-		logger.info("{}"+context.getBean(InitBeanAndDestroyBean.class));
+		logger.info("{}",context.getBean(Properties.class).toString());
+		logger.info("{}",context.getBean(Animal.class));
+		logger.info("{}",context.getBean(InitBeanAndDestroyBean.class));
 		String property = context.getEnvironment().getProperty("url");
-		logger.info("{}"+context.getEnvironment().getProperty("password"));
-		logger.info("{}"+property);
+		logger.info("{}",context.getEnvironment().getProperty("password"));
+		logger.info("{}",property);
 		springApplication.setAdditionalProfiles("test","dev");
-		logger.info("{}"+context.getBean(UserBean.class));
-		//logger.info("{}"+context.getBean(MyBeanNotOfRequiredTypeFailureAnalyzer.class));
-		logger.info("{}"+context.getBean(SessionConfiguration.class));
-		logger.info("{}"+context.getBean(JWTConfiguration.class));
-		logger.info("{}"+context.getBean(LoggerConfguration.class));
+		logger.info("{}",context.getBean(UserBean.class));
+		//logger.info("{}",context.getBean(MyBeanNotOfRequiredTypeFailureAnalyzer.class));
+		logger.info("{}",context.getBean(SessionConfiguration.class));
+		logger.info("{}",context.getBean(JWTConfiguration.class));
+		logger.info("{}",context.getBean(LoggerConfguration.class));
 /*		System.exit(SpringApplication
 				.exit(SpringApplication.run(BeanApplication.class, args)));*/
 	}

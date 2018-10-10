@@ -12,7 +12,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 import com.wesley.bean.interceptor.SessionInterceptor;
 @Configuration
 public class SessionConfiguration extends WebMvcConfigurerAdapter{
-
+	
 	@Override
 	public void addInterceptors(InterceptorRegistry registry) {
 		registry.addInterceptor(new SessionInterceptor())
@@ -31,6 +31,7 @@ public class SessionConfiguration extends WebMvcConfigurerAdapter{
 		.excludePathPatterns("/welcome**")
 		.excludePathPatterns("/typography**/**")
 		.excludePathPatterns("/ztree**")
+		.excludePathPatterns("/s**/**.html")
 		.excludePathPatterns("/socket/**");
 	}
 
