@@ -9,9 +9,15 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
+import java.lang.reflect.Field;
+import java.net.URL;
+import java.net.URLClassLoader;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.commons.io.IOUtils;
+import org.apache.commons.lang.reflect.FieldUtils;
+import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,8 +27,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import org.springframework.web.context.WebApplicationContext;
-import org.apache.commons.io.IOUtils;
-import org.junit.Before;
+
+import com.wesley.bean.classloader.LocalClassLoader;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
@@ -100,4 +106,57 @@ public class BeanApplicationTests {
         IOUtils.writeLines(lines,IOUtils.LINE_SEPARATOR,os,"Utf-8");
       }
     }
+	
+	@Test
+	public void readClassLoader() throws ClassNotFoundException {
+		LocalClassLoader lcl=new LocalClassLoader();
+		Class<?> loadClass = lcl.loadClass("com.wesley.bean.classloader.DefintionClassLoader");
+		Field field = FieldUtils.getField(loadClass, "keyString",true);
+		Object value;
+		try {
+			value = field.get(loadClass.newInstance());
+			System.out.println(value);
+		} catch (IllegalArgumentException | IllegalAccessException | InstantiationException e) {
+			e.printStackTrace();
+		}
+		
+	}
+	
+	@Test
+	public void TestURLClassLoader() throws ClassNotFoundException, IllegalArgumentException, IllegalAccessException, InstantiationException, IOException {
+		URLClassLoader ucl=new URLClassLoader(new URL[] {new URL("file:/E:/GoogleDownLoad/beans-master/target/classes")});
+		Class<?> loadClass =ucl.loadClass("com.wesley.bean.classloader.DefintionClassLoader");
+		Field field = FieldUtils.getField(loadClass, "keyString",true);
+		Object value = field.get(loadClass.newInstance());
+		System.out.println(value);
+		ucl.close();
+		
+	}
+	
+	
+/*	@Test
+	public void TestClassLoader() {
+		ClassLoader c = ClassLoader.getSystemClassLoader();
+		System.out.println(c);
+		while((c=c.getParent())!=null) {
+			System.out.println(c);
+		}
+	}*/
+	
+	@Test
+	public void TestIntegerCache() {
+		Integer a=127;
+		Integer b=127;
+		
+		Integer c=128;
+		Integer d=128;
+		Integer c1=new Integer(128);
+		Integer d1=new Integer(128);
+		
+		System.out.println(a==b);
+		System.out.println(c1==d1);
+		System.out.println(c==d);
+		
+	}
+	
 }
