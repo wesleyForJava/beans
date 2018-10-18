@@ -1,0 +1,863 @@
+2018-10-16 15:25:36.155 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:25:36.158 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:25:36.158 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:29:23.622 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:29:23.626 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:29:23.626 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:29:49.430 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:29:49.433 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:29:49.433 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:29:53.230 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:29:53.232 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:29:53.233 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:30:56.907 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:30:56.910 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:30:56.910 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:31:10.469 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:31:10.471 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:31:10.472 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:31:30.309 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:31:30.312 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:31:30.312 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:31:58.996 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:31:58.999 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:31:58.999 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:33:58.564 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:33:58.567 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:33:58.568 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:35:55.198 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:35:55.201 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:35:55.201 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:36:05.270 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:36:05.272 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:36:05.273 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:37:16.831 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:37:16.834 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:37:16.834 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:37:50.526 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:37:50.529 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:37:50.529 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:38:24.314 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:38:24.318 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:38:24.318 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:41:02.162 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:41:02.164 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:41:02.165 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:43:21.217 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:43:21.220 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:43:21.220 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:44:36.097 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:44:36.100 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:44:36.100 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:48:01.968 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:48:01.971 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:48:01.971 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:48:50.907 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:48:50.910 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:48:50.910 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:49:49.791 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:49:49.794 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:49:49.795 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:49:51.496 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:49:51.497 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 15:49:51.498 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:49:51.498 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:53:00.562 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:53:00.565 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:53:00.565 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:53:02.276 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:53:02.276 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 15:53:02.278 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:53:02.278 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:53:02.278 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:53:02.278 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 15:54:26.585 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:54:26.588 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:54:26.588 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:54:28.315 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:54:28.316 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 15:54:28.317 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:54:28.318 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:54:28.318 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:54:28.318 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 15:55:24.481 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:55:24.484 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:55:24.484 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:55:26.220 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:55:26.221 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 15:55:26.222 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:55:26.222 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:55:26.223 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:55:26.223 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 15:55:26.223 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 15:55:26.223 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 15:55:26.223 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 15:59:13.822 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:59:13.825 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:59:13.825 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 15:59:15.502 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:59:15.502 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 15:59:15.504 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 15:59:15.504 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:59:15.504 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 15:59:15.505 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 15:59:15.505 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 15:59:15.505 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 15:59:15.505 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 15:59:15.513 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539676755513
+2018-10-16 16:16:57.913 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:16:57.915 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:16:57.916 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:16:59.635 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:16:59.635 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:16:59.636 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:16:59.637 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:16:59.637 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:16:59.637 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:16:59.637 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:16:59.638 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:16:59.638 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:16:59.646 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539677819646
+2018-10-16 16:16:59.647 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:16:59 CST 2018
+2018-10-16 16:17:34.571 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:17:34.574 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:17:34.574 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:17:36.304 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:17:36.305 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:17:36.306 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:17:36.306 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:17:36.307 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:17:36.307 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:17:36.307 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:17:36.307 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:17:36.307 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:17:36.315 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539677856315
+2018-10-16 16:17:36.316 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:17:36 CST 2018
+2018-10-16 16:37:13.629 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:37:13.633 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:37:13.633 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:37:15.370 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:37:15.370 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:37:15.372 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:37:15.372 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:37:15.373 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:37:15.373 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:37:15.373 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:37:15.373 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:37:15.374 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:37:15.384 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679035384
+2018-10-16 16:37:15.384 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:37:15 CST 2018
+2018-10-16 16:38:02.178 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:38:02.180 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:38:02.181 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:38:03.877 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:38:03.878 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:38:03.879 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:38:03.879 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:38:03.880 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:38:03.880 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:38:03.880 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:38:03.880 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:38:03.880 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:38:03.889 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679083889
+2018-10-16 16:38:03.889 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:38:03 CST 2018
+2018-10-16 16:39:25.847 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:39:25.850 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:39:25.850 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:39:27.564 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:39:27.564 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:39:27.566 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:39:27.566 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:39:27.566 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:39:27.566 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:39:27.566 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:39:27.567 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:39:27.567 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:39:27.576 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679167575
+2018-10-16 16:39:27.576 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:39:27 CST 2018
+2018-10-16 16:41:41.779 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:41:41.782 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:41:41.782 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:41:43.579 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:41:43.579 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:41:43.580 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:41:43.581 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:41:43.581 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:41:43.581 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:41:43.581 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:41:43.581 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:41:43.581 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:41:43.589 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679303589
+2018-10-16 16:41:43.590 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:41:43 CST 2018
+2018-10-16 16:42:52.899 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:42:52.902 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:42:52.903 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:42:54.667 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:42:54.668 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:42:54.669 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:42:54.670 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:42:54.670 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:42:54.670 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:42:54.670 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:42:54.670 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:42:54.670 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:42:54.678 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679374678
+2018-10-16 16:42:54.679 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:42:54 CST 2018
+2018-10-16 16:44:39.759 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:44:39.762 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:44:39.762 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:44:41.504 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:44:41.504 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:44:41.505 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:44:41.505 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:44:41.506 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:44:41.506 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:44:41.506 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:44:41.506 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:44:41.506 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:44:41.514 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679481514
+2018-10-16 16:44:41.514 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:44:41 CST 2018
+2018-10-16 16:45:15.447 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:45:15.451 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:45:15.451 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:45:17.190 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:45:17.190 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:45:17.191 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:45:17.192 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:45:17.192 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:45:17.192 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:45:17.192 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:45:17.192 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:45:17.193 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:45:17.200 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679517200
+2018-10-16 16:45:17.201 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:45:17 CST 2018
+2018-10-16 16:45:26.788 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:45:26.790 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:45:26.791 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:45:28.557 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:45:28.557 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:45:28.558 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:45:28.559 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:45:28.559 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:45:28.559 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:45:28.559 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:45:28.559 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:45:28.559 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:45:28.567 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679528567
+2018-10-16 16:45:28.567 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:45:28 CST 2018
+2018-10-16 16:45:45.098 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:45:45.101 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:45:45.101 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:45:46.824 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:45:46.825 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:45:46.826 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:45:46.827 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:45:46.827 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:45:46.827 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:45:46.827 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:45:46.827 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:45:46.827 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:45:46.836 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679546836
+2018-10-16 16:45:46.836 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:45:46 CST 2018
+2018-10-16 16:46:47.842 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:46:47.846 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:46:47.846 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:46:49.547 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:46:49.548 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:46:49.549 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:46:49.549 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:46:49.550 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:46:49.550 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:46:49.550 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:46:49.550 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:46:49.550 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:46:49.558 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679609558
+2018-10-16 16:46:49.558 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:46:49 CST 2018
+2018-10-16 16:48:07.382 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:48:07.385 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:48:07.385 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:48:09.126 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:48:09.127 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:48:09.128 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:48:09.129 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:48:09.129 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:48:09.129 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:48:09.129 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:48:09.129 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:48:09.130 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:48:09.141 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679689141
+2018-10-16 16:48:09.142 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:48:09 CST 2018
+2018-10-16 16:48:52.653 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:48:52.657 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:48:52.657 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:48:54.396 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:48:54.397 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:48:54.398 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:48:54.398 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:48:54.398 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:48:54.399 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:48:54.399 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:48:54.399 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:48:54.399 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:48:54.407 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679734407
+2018-10-16 16:48:54.408 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:48:54 CST 2018
+2018-10-16 16:50:07.730 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:50:07.732 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:50:07.733 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:50:09.431 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:50:09.432 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:50:09.433 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:50:09.433 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:50:09.433 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:50:09.433 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:50:09.433 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:50:09.434 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:50:09.434 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:50:09.441 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679809441
+2018-10-16 16:50:09.442 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:50:09 CST 2018
+2018-10-16 16:50:16.861 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:50:16.865 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:50:16.865 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:50:18.598 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:50:18.598 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:50:18.599 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:50:18.600 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:50:18.600 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:50:18.600 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:50:18.600 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:50:18.600 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:50:18.600 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:50:18.608 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679818608
+2018-10-16 16:50:18.608 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:50:18 CST 2018
+2018-10-16 16:50:27.081 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:50:27.084 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:50:27.084 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:50:28.816 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:50:28.816 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:50:28.817 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:50:28.818 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:50:28.818 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:50:28.818 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:50:28.818 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:50:28.818 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:50:28.819 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:50:28.827 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679828827
+2018-10-16 16:50:28.827 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:50:28 CST 2018
+2018-10-16 16:51:13.199 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:51:13.202 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:51:13.202 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:51:14.903 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:51:14.904 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:51:14.905 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:51:14.905 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:51:14.905 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:51:14.905 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:51:14.905 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:51:14.906 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:51:14.906 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:51:14.915 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679874915
+2018-10-16 16:51:14.915 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:51:14 CST 2018
+2018-10-16 16:51:22.513 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:51:22.517 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:51:22.517 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:51:24.329 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:51:24.330 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:51:24.331 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:51:24.331 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:51:24.332 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:51:24.332 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:51:24.332 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:51:24.332 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:51:24.332 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:51:24.340 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679884340
+2018-10-16 16:51:24.340 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:51:24 CST 2018
+2018-10-16 16:51:39.070 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:51:39.073 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:51:39.073 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:51:40.765 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:51:40.765 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:51:40.766 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:51:40.767 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:51:40.767 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:51:40.767 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:51:40.767 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:51:40.767 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:51:40.767 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:51:40.775 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539679900775
+2018-10-16 16:51:40.776 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:51:40 CST 2018
+2018-10-16 16:54:53.249 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:54:53.253 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:54:53.253 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:54:55.014 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:54:55.015 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:54:55.017 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:54:55.017 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:54:55.017 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:54:55.017 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:54:55.018 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:54:55.018 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:54:55.018 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:54:55.026 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680095026
+2018-10-16 16:54:55.027 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:54:55 CST 2018
+2018-10-16 16:55:16.695 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:55:16.698 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:55:16.698 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:55:18.384 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:55:18.385 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:55:18.386 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:55:18.386 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:55:18.386 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:55:18.386 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:55:18.387 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:55:18.387 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:55:18.387 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:55:18.395 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680118395
+2018-10-16 16:55:18.395 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:55:18 CST 2018
+2018-10-16 16:56:19.800 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:56:19.803 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:56:19.803 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:56:21.544 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:56:21.545 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:56:21.546 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:56:21.546 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:56:21.546 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:56:21.547 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:56:21.547 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:56:21.547 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:56:21.547 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:56:21.555 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680181555
+2018-10-16 16:56:21.555 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:56:21 CST 2018
+2018-10-16 16:57:16.182 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:57:16.185 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:57:16.185 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:57:17.912 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:57:17.913 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:57:17.914 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:57:17.914 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:57:17.914 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:57:17.915 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:57:17.915 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:57:17.915 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:57:17.915 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:57:17.923 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680237923
+2018-10-16 16:57:17.924 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:57:17 CST 2018
+2018-10-16 16:57:57.437 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:57:57.440 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:57:57.440 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:57:59.139 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:57:59.140 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:57:59.141 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:57:59.141 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:57:59.141 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:57:59.141 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:57:59.142 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:57:59.142 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:57:59.142 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:57:59.150 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680279150
+2018-10-16 16:57:59.151 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:57:59 CST 2018
+2018-10-16 16:58:34.864 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:58:34.867 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:58:34.867 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:58:36.629 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:58:36.630 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:58:36.631 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:58:36.631 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:58:36.631 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:58:36.632 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:58:36.632 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:58:36.632 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:58:36.632 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:58:36.640 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680316640
+2018-10-16 16:58:36.640 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:58:36 CST 2018
+2018-10-16 16:58:44.206 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:58:44.208 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:58:44.209 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:58:45.933 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:58:45.934 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:58:45.935 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:58:45.935 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:58:45.936 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:58:45.936 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:58:45.936 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:58:45.936 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:58:45.936 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:58:45.944 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680325944
+2018-10-16 16:58:45.944 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:58:45 CST 2018
+2018-10-16 16:58:56.660 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:58:56.663 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:58:56.663 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:58:58.376 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:58:58.377 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:58:58.378 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:58:58.378 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:58:58.378 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:58:58.379 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:58:58.379 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:58:58.379 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:58:58.379 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:58:58.387 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680338387
+2018-10-16 16:58:58.388 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:58:58 CST 2018
+2018-10-16 16:59:08.980 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:59:08.983 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:59:08.983 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:59:10.690 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:59:10.690 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:59:10.692 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:59:10.692 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:59:10.692 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:59:10.692 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:59:10.692 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:59:10.692 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:59:10.693 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:59:10.700 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680350700
+2018-10-16 16:59:10.701 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:59:10 CST 2018
+2018-10-16 16:59:18.295 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:59:18.297 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:59:18.297 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:59:19.981 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:59:19.982 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:59:19.983 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:59:19.984 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:59:19.984 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:59:19.984 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:59:19.984 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:59:19.984 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:59:19.985 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:59:19.993 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680359993
+2018-10-16 16:59:19.993 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:59:19 CST 2018
+2018-10-16 16:59:49.365 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:59:49.368 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:59:49.368 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 16:59:51.106 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:59:51.107 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 16:59:51.108 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 16:59:51.109 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:59:51.109 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 16:59:51.109 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 16:59:51.109 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 16:59:51.109 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 16:59:51.110 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 16:59:51.118 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680391118
+2018-10-16 16:59:51.118 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 16:59:51 CST 2018
+2018-10-16 17:00:14.084 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:00:14.087 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:00:14.087 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:00:15.798 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:00:15.799 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:00:15.800 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:00:15.801 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:00:15.801 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:00:15.801 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:00:15.801 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:00:15.801 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:00:15.801 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:00:15.809 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680415809
+2018-10-16 17:00:15.809 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:00:15 CST 2018
+2018-10-16 17:01:34.805 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:01:34.807 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:01:34.807 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:01:36.559 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:01:36.560 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:01:36.561 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:01:36.561 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:01:36.561 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:01:36.561 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:01:36.561 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:01:36.562 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:01:36.562 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:01:36.570 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680496570
+2018-10-16 17:01:36.570 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:01:36 CST 2018
+2018-10-16 17:02:24.456 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:02:24.459 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:02:24.460 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:02:26.240 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:02:26.240 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:02:26.242 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:02:26.242 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:02:26.242 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:02:26.242 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:02:26.242 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:02:26.242 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:02:26.243 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:02:26.251 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680546251
+2018-10-16 17:02:26.252 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:02:26 CST 2018
+2018-10-16 17:03:20.510 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:03:20.513 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:03:20.513 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:03:22.215 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:03:22.216 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:03:22.217 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:03:22.217 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:03:22.218 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:03:22.218 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:03:22.218 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:03:22.218 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:03:22.218 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:03:22.226 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680602226
+2018-10-16 17:03:22.226 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:03:22 CST 2018
+2018-10-16 17:03:36.199 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:03:36.202 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:03:36.202 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:03:37.981 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:03:37.981 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:03:37.983 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:03:37.984 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:03:37.984 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:03:37.984 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:03:37.984 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:03:37.984 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:03:37.984 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:03:37.992 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680617992
+2018-10-16 17:03:37.992 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:03:37 CST 2018
+2018-10-16 17:03:57.151 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:03:57.153 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:03:57.154 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:03:58.915 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:03:58.916 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:03:58.917 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:03:58.917 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:03:58.917 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:03:58.918 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:03:58.918 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:03:58.918 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:03:58.918 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:03:58.927 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680638927
+2018-10-16 17:03:58.927 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:03:58 CST 2018
+2018-10-16 17:04:27.890 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:04:27.893 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:04:27.893 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:04:29.681 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:04:29.681 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:04:29.682 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:04:29.683 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:04:29.683 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:04:29.683 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:04:29.683 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:04:29.683 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:04:29.683 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:04:29.691 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680669691
+2018-10-16 17:04:29.692 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:04:29 CST 2018
+2018-10-16 17:04:45.305 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:04:45.309 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:04:45.309 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:04:47.013 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:04:47.013 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:04:47.015 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:04:47.015 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:04:47.015 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:04:47.015 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:04:47.015 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:04:47.016 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:04:47.016 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:04:47.024 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539680687024
+2018-10-16 17:04:47.025 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:04:47 CST 2018
+2018-10-16 17:12:25.206 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:12:25.209 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:12:25.209 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:12:26.943 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:12:26.944 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:12:26.945 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:12:26.946 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:12:26.946 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:12:26.946 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:12:26.946 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:12:26.946 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:12:26.947 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:12:26.954 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681146954
+2018-10-16 17:12:26.955 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:12:26 CST 2018
+2018-10-16 17:13:20.905 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:13:20.908 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:13:20.908 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:13:22.674 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:13:22.675 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:13:22.676 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:13:22.676 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:13:22.676 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:13:22.676 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:13:22.677 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:13:22.677 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:13:22.677 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:13:22.685 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681202685
+2018-10-16 17:13:22.685 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:13:22 CST 2018
+2018-10-16 17:14:03.857 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:14:03.860 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:14:03.860 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:14:05.576 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:14:05.576 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:14:05.577 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:14:05.578 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:14:05.578 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:14:05.578 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:14:05.578 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:14:05.578 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:14:05.578 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:14:05.586 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681245586
+2018-10-16 17:14:05.586 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:14:05 CST 2018
+2018-10-16 17:14:34.410 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:14:34.413 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:14:34.413 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:14:36.130 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:14:36.130 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:14:36.131 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:14:36.132 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:14:36.132 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:14:36.132 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:14:36.132 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:14:36.132 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:14:36.133 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:14:36.140 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681276140
+2018-10-16 17:14:36.141 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:14:36 CST 2018
+2018-10-16 17:15:11.456 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:15:11.459 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:15:11.459 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:15:13.211 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:15:13.212 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:15:13.213 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:15:13.213 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:15:13.213 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:15:13.214 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:15:13.214 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:15:13.214 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:15:13.214 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:15:13.222 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681313222
+2018-10-16 17:15:13.223 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:15:13 CST 2018
+2018-10-16 17:15:29.407 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:15:29.410 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:15:29.410 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:15:31.152 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:15:31.152 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:15:31.153 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:15:31.154 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:15:31.154 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:15:31.154 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:15:31.154 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:15:31.154 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:15:31.154 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:15:31.162 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681331162
+2018-10-16 17:15:31.163 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:15:31 CST 2018
+2018-10-16 17:16:37.205 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:16:37.208 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:16:37.208 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:16:38.889 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:16:38.890 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:16:38.891 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:16:38.891 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:16:38.891 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:16:38.891 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:16:38.891 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:16:38.892 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:16:38.892 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:16:38.899 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681398899
+2018-10-16 17:16:38.900 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:16:38 CST 2018
+2018-10-16 17:18:46.222 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:18:46.225 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:18:46.225 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:18:47.986 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:18:47.987 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:18:47.988 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:18:47.988 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:18:47.988 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:18:47.989 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:18:47.989 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:18:47.989 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:18:47.989 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:18:47.997 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681527997
+2018-10-16 17:18:47.997 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:18:47 CST 2018
+2018-10-16 17:21:23.174 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:21:23.177 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:21:23.177 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:21:24.895 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:21:24.896 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:21:24.897 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:21:24.897 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:21:24.897 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:21:24.898 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:21:24.898 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:21:24.898 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:21:24.898 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:21:24.906 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681684906
+2018-10-16 17:21:24.906 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:21:24 CST 2018
+2018-10-16 17:22:05.119 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:22:05.122 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:22:05.122 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:22:06.863 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:22:06.864 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:22:06.865 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:22:06.866 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:22:06.866 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:22:06.866 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:22:06.866 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:22:06.866 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:22:06.867 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:22:06.874 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681726874
+2018-10-16 17:22:06.875 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:22:06 CST 2018
+2018-10-16 17:22:36.363 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:22:36.365 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:22:36.365 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:22:38.117 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:22:38.117 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:22:38.119 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:22:38.119 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:22:38.119 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:22:38.119 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:22:38.119 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:22:38.120 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:22:38.120 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:22:38.174 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681758174
+2018-10-16 17:22:38.174 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:22:38 CST 2018
+2018-10-16 17:23:12.089 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:23:12.092 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:23:12.092 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:23:13.874 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:23:13.875 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:23:13.877 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:23:13.877 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:23:13.877 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:23:13.877 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:23:13.878 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:23:13.878 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:23:13.878 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:23:13.885 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539681793885
+2018-10-16 17:23:13.886 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:23:13 CST 2018
+2018-10-16 17:29:21.038 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:29:21.041 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:29:21.041 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:29:22.761 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:29:22.761 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:29:22.762 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:29:22.763 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:29:22.763 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:29:22.763 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:29:22.763 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:29:22.763 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:29:22.764 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:29:22.771 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539682162771
+2018-10-16 17:29:22.772 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:29:22 CST 2018
+2018-10-16 17:29:49.724 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:29:49.726 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:29:49.726 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:29:51.470 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:29:51.471 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:29:51.472 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:29:51.473 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:29:51.473 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:29:51.473 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:29:51.473 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:29:51.473 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:29:51.474 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:29:51.481 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539682191481
+2018-10-16 17:29:51.482 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:29:51 CST 2018
+2018-10-16 17:30:35.412 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:30:35.415 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:30:35.415 [main] INFO  com.wesley.bean.test.TestCompare - bam
+2018-10-16 17:30:37.153 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:30:37.154 [main] INFO  com.wesley.bean.test.TestCompare - false
+2018-10-16 17:30:37.155 [main] INFO  com.wesley.bean.test.TestCompare - true
+2018-10-16 17:30:37.155 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:30:37.155 [main] INFO  com.wesley.bean.test.TestCompare - val33
+2018-10-16 17:30:37.155 [main] INFO  com.wesley.bean.test.TestCompare - null
+2018-10-16 17:30:37.155 [main] INFO  com.wesley.bean.test.TestCompare - not found
+2018-10-16 17:30:37.156 [main] INFO  com.wesley.bean.test.TestCompare - val9
+2018-10-16 17:30:37.156 [main] INFO  com.wesley.bean.test.TestCompare - val9concat
+2018-10-16 17:30:37.164 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:1539682237164
+2018-10-16 17:30:37.164 [main] INFO  com.wesley.bean.test.TestCompare - 时间为:Tue Oct 16 17:30:37 CST 2018
