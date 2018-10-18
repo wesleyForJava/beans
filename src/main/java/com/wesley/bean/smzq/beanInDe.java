@@ -10,7 +10,6 @@ import org.springframework.http.MediaType;
 import org.springframework.http.converter.StringHttpMessageConverter;
 
 import com.wesley.bean.init.Animal;
-
 public class beanInDe  implements BeanPostProcessor {
 
 	@Override

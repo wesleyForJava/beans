@@ -1,9 +1,11 @@
 package com.wesley.bean.test;
 
+
 import com.wesley.bean.biz.IBic;
 import com.wesley.bean.biz.impl.IBicImpl;
 import com.wesley.bean.buidler.ProxyBuilderOne;
 import com.wesley.bean.handler.BicInvocationHandler;
+
 
 public class TestOne {
 	    private static IBic bic=new IBicImpl();     
