@@ -20,7 +20,7 @@ public class ForkJoinTask extends RecursiveTask<Long>{
 
 
     public static void main(String[] args) {
-		   //  test();
+		     test();
 		     System.out.println("============");
 		     testForkJoinTask();
 	}
@@ -36,9 +36,6 @@ public class ForkJoinTask extends RecursiveTask<Long>{
 	}
 
 
-	/**
-	 * 
-	 */
 	private static void test() {
 		System.out.println("test");
 		Long start=System.currentTimeMillis();

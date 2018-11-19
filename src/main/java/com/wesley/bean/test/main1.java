@@ -50,30 +50,6 @@ public class main1 extends WebMvcConfigurerAdapter{
 		}
 		System.out.println(totalMoney);
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 /*		 Object obj=new main2();
 		System.out.println(obj.getClass().getName());
 		try {
@@ -191,8 +167,13 @@ public class main1 extends WebMvcConfigurerAdapter{
 	        for (String item : splitResults) {
 	            System.out.println(item);
 	        }*/	
-	}
-
-	private static void AbstractApplicationContext() {
+		
+		  // String str = new String();  
+		   //Integer integer=new Integer(11);
+	        //System.out.print("str是Object的实例:");  
+	        //System.out.println(str instanceof Object);  
+	       // System.out.println(integer instanceof Object);  
+	        //System.out.println("Object和Object相同:"+Object.class.isAssignableFrom(String.class));  
+	        //System.out.println("String是Object的父类:"+String.class.isAssignableFrom(Object.class));
 	}
 }

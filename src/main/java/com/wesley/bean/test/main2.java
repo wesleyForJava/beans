@@ -2,6 +2,9 @@ package com.wesley.bean.test;
 
 public class main2 {
 	public static void main(String[] args) {
+		
+		System.out.println(3 << 5);
+		System.out.println(4 << 30);
 		long start=System.currentTimeMillis();
 		System.out.println(start);
             String type="2";

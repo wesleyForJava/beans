@@ -1,6 +1,13 @@
 package com.wesley.bean.test;
 
 
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
 import com.wesley.bean.biz.IBic;
 import com.wesley.bean.biz.impl.IBicImpl;
 import com.wesley.bean.buidler.ProxyBuilderOne;
@@ -18,5 +25,13 @@ public class TestOne {
 		  .setInterfaces(IBic.class)
 		  .build();
 		   ibic.writesomemore();
+		   
+		   List<String> arrayList = new ArrayList<String>() {{
+			    add("test");
+			    add("test2");
+			}};
+			for (String string : arrayList) {
+				System.out.println(string);
+			}
 	}
 }

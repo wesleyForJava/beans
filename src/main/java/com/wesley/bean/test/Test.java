@@ -36,8 +36,9 @@ public class Test {
             .setInvocationHandler(hander)
             .buildClassFile("proxy", ".");*/
 	        
-	        
-	        
+	    	String path="https://api.weixin.qq.com/cgi-bin/material/add_material?access_token=%s&type=%s";
+             String format = String.format(path, "a","b");
+             System.out.println(format);
 	}
 
 }
