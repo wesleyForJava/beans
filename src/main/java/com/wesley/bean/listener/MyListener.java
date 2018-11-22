@@ -18,6 +18,7 @@ import org.springframework.context.event.ContextStoppedEvent;
  * @author Administrator
  *
  */
+@SuppressWarnings("rawtypes")
 public class MyListener implements ApplicationListener{
    private static final Logger logger=LoggerFactory.getLogger(MyListener.class);
 	@Override
