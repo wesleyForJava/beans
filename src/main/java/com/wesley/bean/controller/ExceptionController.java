@@ -9,15 +9,6 @@ import com.wesley.bean.exception.LogicException;
 
 /**
  * 测试控制器
- * ========================
- * Created with IntelliJ IDEA.
- * User：恒宇少年
- * Date：2018/1/7
- * Time：下午3:12
- * 码云：http://git.oschina.net/jnyqy
- * ========================
- *
- * @author yuqiyu
  */
 @RestController
 public class ExceptionController {

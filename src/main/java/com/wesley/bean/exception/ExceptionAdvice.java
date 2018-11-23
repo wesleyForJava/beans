@@ -14,14 +14,6 @@ import com.wesley.bean.dto.ApiResponseEntity;
 /**
  * 控制器异常通知类
  * ========================
- * Created with IntelliJ IDEA.
- * User：恒宇少年
- * Date：2018/1/7
- * Time：下午5:30
- * 码云：http://git.oschina.net/jnyqy
- * ========================
- *
- * @author yuqiyu
  */
 @ControllerAdvice(annotations = RestController.class)
 @ResponseBody

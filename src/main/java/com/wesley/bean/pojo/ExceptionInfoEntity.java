@@ -13,12 +13,6 @@ import lombok.Data;
 /**
  * 系统异常基本信息实体
  * ========================
- * Created with IntelliJ IDEA.
- * Date：2018/1/7
- * Time：下午3:35
- * 码云：http://git.oschina.net/jnyqy
- * ========================
- * @author yuqiyu
  */
 @Data
 @Entity

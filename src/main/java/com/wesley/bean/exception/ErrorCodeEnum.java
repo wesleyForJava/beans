@@ -2,13 +2,6 @@ package com.wesley.bean.exception;
 
 /**
  * 错误码枚举类型
- * ========================
- * Created with IntelliJ IDEA.
- * Date：2018/1/7
- * Time：下午3:25
- * 码云：http://git.oschina.net/jnyqy
- * ========================
- * @author yuqiyu
  */
 public enum ErrorCodeEnum {
     /**

@@ -6,13 +6,6 @@ import lombok.Data;
 /**
  * 接口响应实体
  * ========================
- * Created with IntelliJ IDEA.
- * User：恒宇少年
- * Date：2018/1/9
- * Time：下午3:04
- * 码云：http://git.oschina.net/jnyqy
- * ========================
- * @author yuqiyu
  */
 @Data
 @Builder

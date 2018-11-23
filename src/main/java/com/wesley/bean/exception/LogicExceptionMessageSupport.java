@@ -11,13 +11,6 @@ import com.wesley.bean.pojo.ExceptionInfoEntity;
  * - 消息可以从数据库内获取
  * - 消息可从Redis内获取
  * ========================
- * Created with IntelliJ IDEA.
- * User：WESLEY
- * Date：2018/1/7
- * Time：下午3:16
- * 码云：http://git.oschina.net/jnyqy
- * ========================
- * @author WESLEY
  */
 @Component
 public class LogicExceptionMessageSupport implements LogicExceptionMessage {
