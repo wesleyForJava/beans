@@ -1,12 +1,8 @@
 package com.wesley.bean.test;
 
 
-import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.put;
-
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 import com.wesley.bean.biz.IBic;
 import com.wesley.bean.biz.impl.IBicImpl;
