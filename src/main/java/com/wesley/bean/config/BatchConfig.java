@@ -40,13 +40,15 @@ public class BatchConfig {
 	}
 	
 	
-	@Bean
-	public Job importJob(JobBuilderFactory jobs,Step s1) {
-		return (Job)jobs.get("importJob").incrementer(new RunIdIncrementer()).flow(s1).build();
-	}
-	
-	@Bean
-	public Step step(StepBuilderFactory factory,ItemReader<User> reader,ItemWriter<User> writer) {
-		return null;
-	}
+//	@Bean
+//	public Job importJob(JobBuilderFactory jobs,Step s1) {
+//		return (Job)jobs.get("importJob").incrementer(new RunIdIncrementer()).flow(s1).build();
+//	}
+//	
+//	
+//	@Bean
+//	public Step step(StepBuilderFactory factory, ItemReader<User> reader, ItemWriter<User> writer) {
+//		return null;
+//	}
+	 
 }

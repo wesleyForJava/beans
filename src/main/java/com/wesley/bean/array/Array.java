@@ -98,7 +98,7 @@ public class Array<E> {
     public int remove(int index) {
     	 if(index < 0 || index >= size)
              throw new IllegalArgumentException("Remove failed. Index is illegal.");
-    	int ret = (int) data[index];
+    	int ret = Integer.parseInt(data[index].toString());
     	for (int i = index; i <size-1; i++) {
 			data[i]=data[i+1];
 		}
