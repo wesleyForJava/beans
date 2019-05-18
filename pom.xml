@@ -74,12 +74,6 @@
             <artifactId>mysql-connector-java</artifactId>
             <scope>runtime</scope>
         </dependency>
-        <!--引入druid最新maven依赖-->
-        <dependency>
-            <groupId>com.alibaba</groupId>
-            <artifactId>druid</artifactId>
-            <version>1.0.29</version>
-        </dependency>
         <!--SpringDataJPA-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -130,13 +124,6 @@
             <artifactId>jjwt</artifactId>
             <version>0.7.0</version>
         </dependency>
-        
-        <!-- https://mvnrepository.com/artifact/javax.inject/javax.inject -->
-		<dependency>
-			<groupId>javax.inject</groupId>
-			<artifactId>javax.inject</artifactId>
-			<version>1</version>
-		</dependency>
         
 		<!-- https://mvnrepository.com/artifact/commons-lang/commons-lang -->
 		<dependency>
@@ -206,11 +193,12 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>3.9</version>
 		</dependency>
-		<dependency>
-		    <groupId>com.lowagie</groupId>
+<!-- 		<dependency>
+		     <groupId>com.lowagie</groupId>
 		    <artifactId>itext</artifactId>
-		    <version>4.2.2</version>
-		</dependency>
+		    <version>2.1.7.js2</version>
+		    <scope>compile</scope>
+		</dependency> -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-configuration-processor</artifactId>
@@ -311,10 +299,6 @@
 
 	<build>
 		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
 			 <plugin>  
                 <groupId>org.springframework.boot</groupId>  
                 <artifactId>spring-boot-maven-plugin</artifactId>  
