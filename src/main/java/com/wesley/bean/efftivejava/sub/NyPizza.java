@@ -6,7 +6,8 @@ import java.util.*;
 //Subclass with hierarchical builder (Page 15)
 public class NyPizza extends Pizza {
  public enum Size { SMALL, MEDIUM, LARGE }
- private final Size size;
+ @SuppressWarnings("unused")
+private final Size size;
 
  public static class Builder extends Pizza.Builder<Builder> {
      private final Size size;
@@ -32,6 +33,6 @@ public class NyPizza extends Pizza {
  }
 
  @Override public String toString() {
-     return "New York Pizza with " + topings;
+     return "New York Pizza with " + toppings;
  }
 }

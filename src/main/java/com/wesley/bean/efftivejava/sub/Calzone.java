@@ -27,6 +27,6 @@ public class Calzone extends Pizza {
 
     @Override public String toString() {
         return String.format("Calzone with %s and sauce on the %s",
-                topings, sauceInside ? "inside" : "outside");
+                toppings, sauceInside ? "inside" : "outside");
     }
 }

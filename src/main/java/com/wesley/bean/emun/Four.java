@@ -1,6 +1,8 @@
 package com.wesley.bean.emun;
 
-public enum Four {
+import com.rabbitmq.client.AMQP.Basic.Get;
+
+public  enum Four {
     RED("红色", 1), GREEN("绿色", 2), BLANK("白色", 3), YELLO("黄色", 4);  
     // 成员变量  
     private String name;  
@@ -17,5 +19,14 @@ public enum Four {
    } 
     public static void main(String[] args) {
 		System.out.println(Four.RED.index);
+		 String string = get("2");
+		 System.out.println(string);
 	}
+    
+    public static String get(String index) {
+    	Four[] values = values();
+    	Four four = values[Integer.valueOf(index)-1];
+		return four.name;
+    }
+    
 }

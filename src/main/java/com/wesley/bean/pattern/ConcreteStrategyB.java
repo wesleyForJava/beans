@@ -6,4 +6,10 @@ public class ConcreteStrategyB implements Strategy{
 	public void strategyInterface() {
 	}
 
+	@Override
+	public void algorithmInterface() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
