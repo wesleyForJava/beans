@@ -10,11 +10,17 @@ import java.util.concurrent.locks.ReadWriteLock;
 
 /**
  *  @author Wesley
- *  
+ *  <p>
  *  解决线程安全问题使用ReentrantLock就可以，但是ReentrantLock是独占锁，
  *  某时只有一个线程可以获取该锁，而实际中会有写少读多的场景，
  *  显然ReentrantLock满足不了这个需求，所以ReentrantReadWriteLock应运而生。
  *  ReentrantReadWriteLock采用读写分离的策略，允许多个线程可以同时获取读锁。
+ *  </p>
+ *  读写锁的内部维护了一个ReadLock和一个WriteLock，它们依赖Sync实现具体功能而Sync继承自AQS，
+ *  并且也提供了公平和非公平的实现。下面只介绍非公平的读写锁实现。我们知道AQS中只维护了一个state状态，
+ *  而ReentrantReadWriteLock需要维护读状态和写状态，一个state怎么表示写和读两种状态呢？
+ *  ReentrantReadWriteLock巧妙地使用state的高16位表示读状态，也就是获取到读锁的次数；
+ *  
  */
 public class ReentrantReadWriteLock1
         implements ReadWriteLock, java.io.Serializable {
@@ -62,15 +68,18 @@ public class ReentrantReadWriteLock1
          * The lower one representing the exclusive (writer) lock hold count,
          * and the upper the shared (reader) hold count.
          */
-
+        /**使用低16位表示获取到写锁的线程的可重入次数。*/
         static final int SHARED_SHIFT   = 16;
+        /**共享锁(读锁)单位状态值65535*/
         static final int SHARED_UNIT    = (1 << SHARED_SHIFT);
+       /**共享锁线程最大个数65535*/
         static final int MAX_COUNT      = (1 << SHARED_SHIFT) - 1;
+		/** 排它锁(写锁)掩码 二进制 15个1 */
         static final int EXCLUSIVE_MASK = (1 << SHARED_SHIFT) - 1;
 
-        /** Returns the number of shared holds represented in count  */
+        /** 返回读锁线程数  */
         static int sharedCount(int c)    { return c >>> SHARED_SHIFT; }
-        /** Returns the number of exclusive holds represented in count  */
+        /** 返回写锁可重入个数  */
         static int exclusiveCount(int c) { return c & EXCLUSIVE_MASK; }
 
         /**
